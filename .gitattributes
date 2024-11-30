@@ -1,0 +1,5 @@
+# Ignore Jupyter Notebook files
+*.ipynb linguist-detectable=false
+
+# Force GitHub to classify .java files as Java
+*.java linguist-language=Java
